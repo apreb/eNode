@@ -22,8 +22,13 @@ Qty | Item | Function
 
 - Load Arduino's `WebUpdater` example sketch to the ESP8266
 - Upload the appropriate firmware located on the `/bin` folder to the ESP-12
-- 
-
+- Access eNode at `SSID:APRENODE / PASSWORD:12345678`
+- Configure `local WiFi settings`, `enode name` and reboot
+- Find ip address or navigate to `http://<yourenodename>.local`
+- make sure all temperatures sensors are correctly mapped on the sensor positions
+- make sure to indicate the correct number of energy sensors
+- check direction if you have a modified PZEM
+- enjoy!
 
 
 
