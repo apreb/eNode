@@ -1,7 +1,7 @@
 # eNode
 eNode is a device that measures energy and/or temperature and delivers data to a MQTT broker and/or Emoncms.
 
-###Features
+### Features
 
 >Energy meter:
 >  - Based on cheap Peacefair PZEM-004
