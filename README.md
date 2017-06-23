@@ -27,7 +27,7 @@ eNode is a device that measures energy and/or temperature and delivers data to a
 
 
 
-Checkout the wiki:  `https://github.com/apreb/eNode/wiki`
+Checkout the wiki:  https://github.com/apreb/eNode/wiki
 
 
 ## Donate
