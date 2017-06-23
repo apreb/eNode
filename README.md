@@ -1,7 +1,7 @@
 # eNode
 eNode is a device that measures energy and/or temperature and delivers data to a MQTT broker and/or Emoncms.
 
-### Features
+
 
 **Energy meter:**
 >  - Based on cheap Peacefair PZEM-004
@@ -20,13 +20,14 @@ eNode is a device that measures energy and/or temperature and delivers data to a
 
 
 **ESP8266**:
->  - Delivers JSON formatted data to MQTT broker
->  - Delivers data to Emoncms server
+>  - Configurable from web page
+>  - Delivers JSON formatted data to local/remote MQTT broker
+>  - Delivers data to local/remote Emoncms server
 >  - change refresh rate on demand
->  - Always reachable / AP on STA disconnect
 
 
-Checkout the wiki:  https://github.com/apreb/eNode/wiki
+
+Checkout the wiki:  `https://github.com/apreb/eNode/wiki`
 
 
 ## Donate
