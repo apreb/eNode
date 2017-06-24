@@ -8,6 +8,12 @@
 3. [Software](#id3)
 4. [Measure Direction Hack](#id4)
 5. [Build Examples](#id5)
+  5.1. [Single Energy meter with energy direction](#id6)
+  5.2. [Three phase energy monitor](#id7)
+  5.3. [Solar water heating monitor](#id8)
+  5.4. [Single phase three point energy monitor + temperature sensors](#id9)
+  5.5. [Single energy monitor with current direction detection (Xtreme edition)](#id10)
+
 
 
 ## Intro <a name="id1"></a>
@@ -80,7 +86,7 @@ Qty | Item | Function
 
 ## Build examples <a name="id5"></a>
 
-### Single Energy meter with energy direction
+### Single Energy meter with energy direction <a name="id6"></a>
 
 ![](https://lh3.googleusercontent.com/SBM5yHYrzJLQoWducXGPkJP71SLBFISQ5Ax2F3FiR5YQkcBkk9DWqZR7r-aBd-BZTT0_eq0TYaBDuSUKMblybQ1whlfn3Ab3sCUCO7kJJBTG1XEwTd10mAaM5Kt19AUJTuHebA=w950-h633-no)
 
@@ -89,27 +95,8 @@ Qty | Item | Function
 
 ![](https://lh3.googleusercontent.com/sQ2G_MfHBDJgZtr_T6JmCbHzPJ0tjJ65jIqNFqcfjtzA-GOI7atpoX9LF5F_NyfGG5sIVLVW3Nkw8zpwZKXFduHe-lHJWSzEFdfq6-6qOtMNwXWco8yAiiEJuRivfRRX5k9SPA=w880-h282-no)
 
-`by RJSC/APR`
 
-### Solar water heating monitor
-
-
-![](https://lh3.googleusercontent.com/tFdkEL8ua9Wu-ubJ4VFyz7GXtDTRZISQmi7aNZxGzFM9dd4C9nc-lPJ7kovtw_w76qnt8mhJZDld6FUdZHhbYR3bouUoOmFnFZkJbu6Rh54rfo9W-EXe-QJ2BJDxecN_b1-HZA=w1328-h984-no)
-
-![](https://lh3.googleusercontent.com/Kjry__9ISTqjh2ymNkWo4btD8tX7F3stuvma9M4x7LwTNFgYzQmJqs2DiBaSt-pQffBzdvVn0nI350bkH2Aqf5yRAR9vJB3h2svWvKawNcxoNPndNSPwJWIe42NDbmDsqRYE08M12syY_pv3VL2G-PPUdXZyL_r6GJhh7iEqjDezaxl9XUeGF0C-X1hd9y4akavBKDe3x1xT68up4fHglX50_l_TwaPRCqHTwuepshVV3g_xHVBbBUXYxs4NbQx2tErrwVcrVc06Amq0Xr83xBYMaYryKFXGyLaUwywLwX6nKcr_E7pjjDc4HKWna7fptINRo2Kogf8YSM7B7FS8uqWZWj4PNQTM-MLdvERkYrDsJ59aRyHOM3zvodYx_slDjbMGSV729nK-kb0rnlKCJKJRXfCu9QzY1018_9JTrLhnrs7LUdj7Fi3H1ZNxpK1sll6PyvNQsjW9F7ay96g96UJS0nEMErjKvyz0o51kNf6hbr7TrYjSqanpGFAlLul7qiGtQN4qS4lbKXC3eYXnzYSXC4K_I3Q_dJBr69Pts08EzVOP7mi-EpeAWN9xfLinLKdoh5XTjeeG8xYyTPUV6usZgaobb_HFlQEpZCUhx9lwcjSTtBouWsaBVpsSNCkuG-6yxpKl9Vq1EMJ-XqV_Ibn2vaVTxCK52D354MRPVw=w485-h595-no)
-
-`by APR`
-
-### Single phase three point energy monitor + temperature sensors
-
-![](https://lh3.googleusercontent.com/4TNofhn6XgbDWfB5Vy3fTMXBU3eEpPv2qGJiVXg1k4DyR8OhXb2wOtKr4gcQeAQeleT3dPNV570MK0fLHa-kvDiBpPCPHQ1jlnRBKeh3T-RfHlDuuAf3nAbqd7GbyfxLXktaCLOHvIaoJIxw0o1gRKzi8zrWWMfRKDp_w5OOR9E_Ef1yowT-bYkWTb8O1x2bqKBu7daBMgCKWSajoPW56bwUEElp0Pimn__CEJhloVevcrBVTbUvX2vT5eRQLaEzuvTROKQfC6l61Kbq5vJt9II_r3Fm93tIobBpjRM8qxEeMqzAtfvg7BwKWEmJrDm3m5KdPq6NxQMzqH7BsAbtotoalLiwUjF1K2GAqCDm480BRhQUqan4z-B6decHaWXQLtsFMyFh5-eusepbKKfI7bKsgj5StnvsV3N3nvQS2O0fgSi8zK3108sZEY-twaVZniZYedR79ZL3voSYmo_MW7FJ7h5RFXyswgGEgAr8bX2Xfi-I6wjTi4eQnswHMQaJ-rYFSrjEyni7zLfDID_Bv5G13PR63rlV0t8DUF-xwj4hSQzlnqvXMJnbflh2sbKkCSjsmZPPJIzkCHcxf2WURH2OeTVeaXtm7Btp2DsukpKweB2CTfTkaB4N_6oAwnWrqPrfVzG6a5Z6qtISHKcLM-J4iT7XSjnvOaEihi87dA=w648-h398-no)
-
-![](https://lh3.googleusercontent.com/BZc7rxPkAizcA1MsoeSc3NuljXX6Rqzd766DGI7KEyPS6lk3bBi1ucrndeq2XFWTVcvZD72FCnDQ_jWR7vsf9b-HAef6bJuMdAJttUEG477DciE-uiFghomssKOI_40PhTXIjA=w433-h611-no)
-
-
-`by APR`
-
-### Three phase energy monitor
+### Three phase energy monitor <a name="id7"></a>
 
 ![](https://lh3.googleusercontent.com/lFx36pi3UEKvuJ2qYbtpFguBMdYHqDalrTyzYfMpJ6QEauFbN-FWTpCJb194URD0lFQuWnGRnPC9IVhM5hSQ8yW8yQG-qlcrPBA66at3fiLVNvpbyO8huPWIYGTkMBnIUtYm26PdR9uXiSEnjsl6J3pTGLOXD3ml4gpfDrUmTph6azpmuIuNogqD2aMiltb1xnjmrVW3IDMPG1lK0KD9EJCVmErBsmYO3THbocai0WbOm3nji5eVqjMjkVsnjNoq_8od44LKuXhRD6S3FyLAqMB2GhAaUMylOFMy1MYeswpV7-FJw6sxn5e6gVUjuuaassgb3GWwPzze9O-ix8DL3ow3HKpH5pxjQYOYonMsn6K4eaxno-wSZ3GFVay60ObxO_I9V-RbAVaF-ieE-dpDuLT7op7GzPBqxVaTbWEzweHOx6JiKF7nHEP6MrgxTVsdSkAHLDXw40UQI87A6i_EFgcIFeDXB6wZjHaYlRTB4G5hzbTIQXfr1oMywXrgVoNg-lMF1Hbzr8PgEdc1Fvtg_a4B4i8Tox6E8Ee9m8OVgw1mYuK419F-nFMuEBJt653Rfelz7v62tjP8Q1Evh7JaqDNR1K7sApte8ZGQa6a8c6ByLQwHckGxCVd8prbtLd_P8Zj8hNyJYykLXaHcxQ3f4LAbJzDnS46oUPKVWOXxDA=w480-h381-no)
 
@@ -121,13 +108,23 @@ Qty | Item | Function
 
 
 
-`by RJSC`
+### Solar water heating monitor <a name="id8"></a>
+
+
+![](https://lh3.googleusercontent.com/tFdkEL8ua9Wu-ubJ4VFyz7GXtDTRZISQmi7aNZxGzFM9dd4C9nc-lPJ7kovtw_w76qnt8mhJZDld6FUdZHhbYR3bouUoOmFnFZkJbu6Rh54rfo9W-EXe-QJ2BJDxecN_b1-HZA=w1328-h984-no)
+
+![](https://lh3.googleusercontent.com/Kjry__9ISTqjh2ymNkWo4btD8tX7F3stuvma9M4x7LwTNFgYzQmJqs2DiBaSt-pQffBzdvVn0nI350bkH2Aqf5yRAR9vJB3h2svWvKawNcxoNPndNSPwJWIe42NDbmDsqRYE08M12syY_pv3VL2G-PPUdXZyL_r6GJhh7iEqjDezaxl9XUeGF0C-X1hd9y4akavBKDe3x1xT68up4fHglX50_l_TwaPRCqHTwuepshVV3g_xHVBbBUXYxs4NbQx2tErrwVcrVc06Amq0Xr83xBYMaYryKFXGyLaUwywLwX6nKcr_E7pjjDc4HKWna7fptINRo2Kogf8YSM7B7FS8uqWZWj4PNQTM-MLdvERkYrDsJ59aRyHOM3zvodYx_slDjbMGSV729nK-kb0rnlKCJKJRXfCu9QzY1018_9JTrLhnrs7LUdj7Fi3H1ZNxpK1sll6PyvNQsjW9F7ay96g96UJS0nEMErjKvyz0o51kNf6hbr7TrYjSqanpGFAlLul7qiGtQN4qS4lbKXC3eYXnzYSXC4K_I3Q_dJBr69Pts08EzVOP7mi-EpeAWN9xfLinLKdoh5XTjeeG8xYyTPUV6usZgaobb_HFlQEpZCUhx9lwcjSTtBouWsaBVpsSNCkuG-6yxpKl9Vq1EMJ-XqV_Ibn2vaVTxCK52D354MRPVw=w485-h595-no)
+
+
+### Single phase three point energy monitor + temperature sensors <a name="id9"></a>
+
+![](https://lh3.googleusercontent.com/4TNofhn6XgbDWfB5Vy3fTMXBU3eEpPv2qGJiVXg1k4DyR8OhXb2wOtKr4gcQeAQeleT3dPNV570MK0fLHa-kvDiBpPCPHQ1jlnRBKeh3T-RfHlDuuAf3nAbqd7GbyfxLXktaCLOHvIaoJIxw0o1gRKzi8zrWWMfRKDp_w5OOR9E_Ef1yowT-bYkWTb8O1x2bqKBu7daBMgCKWSajoPW56bwUEElp0Pimn__CEJhloVevcrBVTbUvX2vT5eRQLaEzuvTROKQfC6l61Kbq5vJt9II_r3Fm93tIobBpjRM8qxEeMqzAtfvg7BwKWEmJrDm3m5KdPq6NxQMzqH7BsAbtotoalLiwUjF1K2GAqCDm480BRhQUqan4z-B6decHaWXQLtsFMyFh5-eusepbKKfI7bKsgj5StnvsV3N3nvQS2O0fgSi8zK3108sZEY-twaVZniZYedR79ZL3voSYmo_MW7FJ7h5RFXyswgGEgAr8bX2Xfi-I6wjTi4eQnswHMQaJ-rYFSrjEyni7zLfDID_Bv5G13PR63rlV0t8DUF-xwj4hSQzlnqvXMJnbflh2sbKkCSjsmZPPJIzkCHcxf2WURH2OeTVeaXtm7Btp2DsukpKweB2CTfTkaB4N_6oAwnWrqPrfVzG6a5Z6qtISHKcLM-J4iT7XSjnvOaEihi87dA=w648-h398-no)
+
+![](https://lh3.googleusercontent.com/BZc7rxPkAizcA1MsoeSc3NuljXX6Rqzd766DGI7KEyPS6lk3bBi1ucrndeq2XFWTVcvZD72FCnDQ_jWR7vsf9b-HAef6bJuMdAJttUEG477DciE-uiFghomssKOI_40PhTXIjA=w433-h611-no)
 
 
 
-
-
-### Single energy monitor with current direction detection (Xtreme edition)
+### Single energy monitor with current direction detection (Xtreme edition) <a name="id10"></a>
 
 Warning: this is a compact frugal build with no isolation between the ESP8266 and the mains!
 
@@ -138,7 +135,7 @@ Warning: this is a compact frugal build with no isolation between the ESP8266 an
 ![](https://lh3.googleusercontent.com/v8S4-ADFeqpWfXBl0sVnBg0W3_lTEPHlxwk3R8cSesZJzsmoB7lOYjI1B-CLbNvr1PrIKuEotIOAbISVBfFGEk0c0O7BcypL5m8_0P_t9jv9j6ap1tJ6lvdtuBJJnRN27nkMnagQMKCCn24Xty61UQvvz1Ydtf1lZkHXew7_RbWIPMbhPvYCh8JrGM7wFLaxIT9ZpBPkaAhOe95YMYKozrMRlEunXybv4W4kqYP0oIeCrRw0N8LfbrlfbRklFZUTWak-EAELOwzbn5QDgHVrfmYqlGSnVsWURScK-WXomCyyaP06fCW0k4aQe7iIbTFktYkKDazrOSzSkwUXY5M5TbRZqhiMHDJAeihRkMt_X9o-5FeFC8LDPlmeeZgup66F1FJCcE4RxRwusxnQ86wvwh26Bc6a6BzXtWEaEouoiEU5zNyiU8KdEGrELJ8yDxiinwQEoeCPtI00aeySg9sKn3hi6eCoCkBHDx3SImiZ3aCESdcGHU5fypgerGp84aVUNw5O8cqaUdjhI5_r1jFQMcOEnqivfZ0bygEGSxsR0N5jg3x6hMazJRJLDzw4amDQZmvgcOtSzRy8ERYKPg_gWKJLhne6zT251-uXYRxpulYStXH-mH5XhYkXRJi7ZWfgq0Gfd4cnoAyrr0-j7GDbLDtL8TYLAa39zkB2up9Srw=w503-h398-no)
 
 
-`by RJSC`
+
 
 
 
