@@ -8,11 +8,11 @@
 3. [Software](#id3)
 4. [Measure Direction Hack](#id4)
 5. [Build Examples](#id5)
-  5.1. [Single Energy meter with energy direction](#id6)
-  5.2. [Three phase energy monitor](#id7)
-  5.3. [Solar water heating monitor](#id8)
-  5.4. [Single phase three point energy monitor + temperature sensors](#id9)
-  5.5. [Single energy monitor with current direction detection (Xtreme edition)](#id10)
+   - [Single Energy meter with energy direction](#id6)
+   - [Three phase energy monitor](#id7)
+   - [Solar water heating monitor](#id8)
+   - [Single phase three point energy monitor + temperature sensors](#id9)
+   - [Single energy monitor with current direction detection (Xtreme edition)](#id10)
 
 
 
