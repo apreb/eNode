@@ -1,6 +1,6 @@
 # eNode
 
-** UPDATE **
+**UPDATE**
 
 checkout new PCB to facilitate building the eNode [here](#id101)
 
@@ -71,10 +71,9 @@ Qty | Item | Function
 
 ## PCB <a name="id101"></a>
 
-This is the first attempt to play with eagle, it's no perfect but makes the bulding of the eNode a breeze compared to what can be seen on the build examples below. If you want i can give away these boards for a simbolic fee, with or without the smd parts.
+This is the first attempt to play with eagle, it's no perfect but makes the bulding of the eNode a breeze compared to what can be seen on the [build examples](#id5). I can give away these boards for a simbolic fee, with or without the smd parts.
 
-The direction hack is just a matter of bringing the RESV pin to one of the PCB pins along with (V+) that is easily availabe on several board points. The PCB facilitates connections to all three PZEMs, relay and temperature sensor network.
-
+The PCB facilitates connections to all three PZEMs, relay and temperature sensor network and makes the direction hack easier to achieve, only 2 wires are needed from the PZEM board.
 
 ![](https://lh3.googleusercontent.com/NEc_kQRFDTeNxvboH8GIxkDYRM_Dq2dIFJZd2LFctrzeJEe2R-aHgQdqa_79k4U9DpSapXntOmc4KvMxwYBwRzowkVU_rYroKE_pH5Ra5mcZIL7AZrssB1QXc_EHBCuSjAXLgjGcetYhUWuetan5uZpetTlyDuT5CZiTFXMCp4exASH8qenkqQWf6_pN-HjyOntYRWli_2D_r5yblLHrh1wGCtamMDDE3QZiSkLudDRyIsz9bb8BTTm4lYwUiiODAX6ZfxJT0-T62qd8QKofDNVk1wGWgHrmkeiV519enRyz-Co9bzdpEVvxU_2y-cli45qUUBNiJZx0eT-lFPdqqckKXGqJ1ZqAGptJZsCBVp1TvnIkRA-_kRsPQcwH-csVdFfK6QwaFFEwZSBwfd2XTtrYZHTTgd8YcKR35_N_kOp4Y5NNy81kJvNgVuu0N_Mtfwc7oxZRpavpA7oPcNUtS6J2BXpOIP8YuyUXen25x9LImc395oYZgWWCKArER7lNfSA95cqKWRMCe5hzAJc56qy1JxLbMbDIY8nQXfqTWs5x30e8Vci-ua6xQyKTChgIguOPL0XTkiNna_WJqyAegIi9aLH3sdhLJ_ATm8qoUYQxvdPnIV73o3T2QJYdTexdV7q2Q7iq_0hNI8DYNK0MJcVP9FQxa-Y=w640-h360-no)
 
